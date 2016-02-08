@@ -1,2 +1,3 @@
 # mlmipt
-Seminars
+ML Seminars at MIPT
+Notebooks & Useful materials (-:
